@@ -1,9 +1,9 @@
 # HW 2 Светцов 2 группа
 # Ссылки на colab ноутбуки
 
-Подготовка:  https://colab.research.google.com/drive/1AULYzYRQ-IFkKIfsRDxjPRCQYGTUXAIl?usp=sharing
+Подготовка: https://colab.research.google.com/drive/1AULYzYRQ-IFkKIfsRDxjPRCQYGTUXAIl?usp=sharing
 
-Biopython: 
+Biopython:  https://colab.research.google.com/drive/1PXVJWFI-XtkJN3zR_CUEhu1lIk6yinGT?usp=sharing
   
 # Таблица со статистикой
 
