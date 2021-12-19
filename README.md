@@ -1,9 +1,12 @@
-# HW 3 Светцов 2 группа
+# HW 2 Светцов 2 группа
+# Ссылки на colab ноутбуки
 
-Ноутбук 1:  https://colab.research.google.com/drive/1AULYzYRQ-IFkKIfsRDxjPRCQYGTUXAIl?usp=sharing
+Подготовка:  https://colab.research.google.com/drive/1AULYzYRQ-IFkKIfsRDxjPRCQYGTUXAIl?usp=sharing
+
+Biopython: 
+  
+# Таблица со статистикой
 
 Всего генов предсказано | Аннотировано с помощью MIL-1 | С помощью БД SwissProt | Без аннотации
 -|-|-|-
 3562 | 3278 | 52 | 232
-
-Ноутбук 2: 
